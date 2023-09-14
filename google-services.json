@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814023251193",
+    "project_id": "pregnant-timer",
+    "storage_bucket": "pregnant-timer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814023251193:android:ea5c848a745fb3849afe28",
+        "android_client_info": {
+          "package_name": "com.brunolanger.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814023251193-8vj69d8vs3ea8kg4jgbj33te2ns5so8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8ltk1BJ9uybYyZHZPnMlLCQWE5oREwew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814023251193-8vj69d8vs3ea8kg4jgbj33te2ns5so8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
